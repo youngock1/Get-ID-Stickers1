@@ -1,6 +1,6 @@
 from aiogram.types import Message
 from aiogram import Router, F
-from keyboards import inline
+import inline
 import emoji
 
 
