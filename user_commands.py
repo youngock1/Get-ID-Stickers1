@@ -1,7 +1,7 @@
 from aiogram.filters import Command, CommandStart
 from aiogram.types import Message
-from keyboards import inline
 from aiogram import Router
+import inline
 import time
 
 
