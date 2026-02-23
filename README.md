@@ -1,1 +1,2 @@
-# Get-ID-Stickers1
+Get-ID-Stickers 
+Бот для программистов TG ботов и веб-разработчиков. 
