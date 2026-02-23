@@ -1,5 +1,5 @@
 from aiogram.exceptions import TelegramAPIError, TelegramBadRequest, TelegramNetworkError
-from handlers import user_commands, bot_messages
+import user_commands, bot_messages
 from aiogram import Bot, Dispatcher
 from dotenv import load_dotenv
 import logging, sys, os
