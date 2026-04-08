@@ -17,4 +17,4 @@ Official documentation aiogram: <b>https://docs.aiogram.dev/en/v3.27.0/</b>
 
 https://github.com/dr-alexa
 
-https://github.com/youngrock1
+https://github.com/youngock1
